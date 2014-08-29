@@ -64,6 +64,7 @@ class GameViewController: UIViewController {
     }
 
     override func prefersStatusBarHidden() -> Bool {
+        //To remove the ugly black-text status bar at the top of the screen
         return true
     }
 }
