@@ -12,8 +12,8 @@ import SpriteKit
 class PlatformNode : GameObjectNode{
     
     enum PlatformType:Int{
-        case PLATFORM_NORMAL  = 1
-        case PLATFORM_BREAK = 2
+        case PLATFORM_NORMAL  = 0
+        case PLATFORM_BREAK = 1
     }
     
     var platformType = PlatformType.PLATFORM_NORMAL

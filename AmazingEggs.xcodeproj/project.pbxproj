@@ -157,7 +157,6 @@
 		650DD68319AEE874007AD593 /* Levels */ = {
 			isa = PBXGroup;
 			children = (
-				650DD68419AEE887007AD593 /* Level01.plist */,
 			);
 			name = Levels;
 			sourceTree = "<group>";
@@ -183,6 +182,7 @@
 		657D8E2B19AC176700569E62 /* AmazingEggs */ = {
 			isa = PBXGroup;
 			children = (
+				650DD68419AEE887007AD593 /* Level01.plist */,
 				650DD68319AEE874007AD593 /* Levels */,
 				657D8E2E19AC176700569E62 /* AppDelegate.swift */,
 				657D8E3019AC176700569E62 /* GameScene.sks */,
